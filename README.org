@@ -1,0 +1,8 @@
+* Hansbreen_2012
+
+This repository is a work in progress. Data here is associated with a paper in review at the Journal of Glaciology.
+
+This file will be updated with a DOI if/when the paper is published.
+
+Ken Mankoff
+mankoff@psu.edu
