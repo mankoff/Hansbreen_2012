@@ -1,5 +1,8 @@
 * Hansbreen_2012
 
+This data is officially hosted at https://arcticdata.io/catalog/#view/urn:uuid:44400f74-c0a8-45c1-b2f2-9dd9e2231c3d 
+We are hosting the STL file here only to provide interactive web-based viewing.
+
 This repository is a work in progress. Data here is associated with a paper in review at the Journal of Glaciology.
 
 This file will be updated with a DOI if/when the paper is published.
